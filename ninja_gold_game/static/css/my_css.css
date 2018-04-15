@@ -1,0 +1,51 @@
+#wrapper{
+    width: 1000px;
+    height: 1000px;
+}
+#top p{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+}
+li{
+    list-style: none;
+    margin-left: 5px;
+}
+.gold{
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 10px;
+}
+#middle{
+    width: 1000px;
+    height: 150px;
+}
+.places{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 0px 25px 0px 0px;
+    text-align: center;
+    border: 2px solid black;
+}
+.log_box{
+    width: 700px;
+    height: 150px;
+    overflow: scroll;
+    border: 2px solid black;
+}
+.green{
+    color: green;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+.red{
+    color: red;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
